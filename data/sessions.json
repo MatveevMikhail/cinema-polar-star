@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "date": "2026-10-20",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 2,
+    "movieId": 1,
+    "date": "2026-10-20",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 3,
+    "movieId": 1,
+    "date": "2026-10-20",
+    "time": "21:00",
+    "hall": "Зал 1",
+    "price": 400,
+    "freeSeats": 40
+  },
+  {
+    "id": 4,
+    "movieId": 1,
+    "date": "2026-10-21",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 5,
+    "movieId": 1,
+    "date": "2026-10-21",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 6,
+    "movieId": 1,
+    "date": "2026-10-21",
+    "time": "21:00",
+    "hall": "Зал 1",
+    "price": 400,
+    "freeSeats": 40
+  },
+  {
+    "id": 7,
+    "movieId": 2,
+    "date": "2026-10-20",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 8,
+    "movieId": 2,
+    "date": "2026-10-20",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 9,
+    "movieId": 2,
+    "date": "2026-10-21",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 10,
+    "movieId": 2,
+    "date": "2026-10-21",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 11,
+    "movieId": 3,
+    "date": "2026-10-20",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 12,
+    "movieId": 3,
+    "date": "2026-10-20",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 13,
+    "movieId": 3,
+    "date": "2026-10-20",
+    "time": "21:00",
+    "hall": "Зал 1",
+    "price": 400,
+    "freeSeats": 40
+  },
+  {
+    "id": 14,
+    "movieId": 3,
+    "date": "2026-10-21",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 15,
+    "movieId": 3,
+    "date": "2026-10-21",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 16,
+    "movieId": 3,
+    "date": "2026-10-21",
+    "time": "21:00",
+    "hall": "Зал 1",
+    "price": 400,
+    "freeSeats": 40
+  },
+  {
+    "id": 17,
+    "movieId": 4,
+    "date": "2026-10-20",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 18,
+    "movieId": 4,
+    "date": "2026-10-20",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 19,
+    "movieId": 4,
+    "date": "2026-10-21",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 20,
+    "movieId": 4,
+    "date": "2026-10-21",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 21,
+    "movieId": 5,
+    "date": "2026-10-20",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 22,
+    "movieId": 5,
+    "date": "2026-10-20",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 23,
+    "movieId": 5,
+    "date": "2026-10-20",
+    "time": "21:00",
+    "hall": "Зал 1",
+    "price": 400,
+    "freeSeats": 40
+  },
+  {
+    "id": 24,
+    "movieId": 5,
+    "date": "2026-10-21",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 25,
+    "movieId": 5,
+    "date": "2026-10-21",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 26,
+    "movieId": 5,
+    "date": "2026-10-21",
+    "time": "21:00",
+    "hall": "Зал 1",
+    "price": 400,
+    "freeSeats": 40
+  },
+  {
+    "id": 27,
+    "movieId": 6,
+    "date": "2026-10-20",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 28,
+    "movieId": 6,
+    "date": "2026-10-20",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  },
+  {
+    "id": 29,
+    "movieId": 6,
+    "date": "2026-10-21",
+    "time": "12:00",
+    "hall": "Зал 1",
+    "price": 250,
+    "freeSeats": 40
+  },
+  {
+    "id": 30,
+    "movieId": 6,
+    "date": "2026-10-21",
+    "time": "18:30",
+    "hall": "Зал 2",
+    "price": 350,
+    "freeSeats": 40
+  }
+]

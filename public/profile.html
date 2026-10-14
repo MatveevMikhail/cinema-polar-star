@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Личный кабинет — кинотеатр «Полярная звезда»</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <a href="index.html" class="logo">★ Полярная звезда</a>
+    <nav class="menu">
+      <a href="index.html">Афиша</a>
+      <a href="contacts.html">О кинотеатре</a>
+      <span id="user-block"><a href="login.html">Войти</a></span>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Личный кабинет</h1>
+    <p>Пользователь: <b id="user-name"></b></p>
+
+    <h2>Мои бронирования</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Фильм</th>
+          <th>Сеанс</th>
+          <th>Зал</th>
+          <th>Билетов</th>
+          <th>Сумма</th>
+          <th>Действия</th>
+        </tr>
+      </thead>
+      <!-- Строки таблицы заполнит JavaScript -->
+      <tbody id="bookings"></tbody>
+    </table>
+  </main>
+
+  <footer class="footer">
+    <p>Кинотеатр «Полярная звезда», г. Северодвинск · 2026</p>
+    <p>Разработчик: Матвеев Михаил Андреевич</p>
+  </footer>
+
+  <script src="js/api.js"></script>
+  <script src="js/profile.js"></script>
+</body>
+</html>

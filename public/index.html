@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Афиша — кинотеатр «Полярная звезда»</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <a href="index.html" class="logo">★ Полярная звезда</a>
+    <nav class="menu">
+      <a href="index.html">Афиша</a>
+      <a href="contacts.html">О кинотеатре</a>
+      <span id="user-block"><a href="login.html">Войти</a></span>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>Кинотеатр «Полярная звезда»</h1>
+      <p>Смотрите расписание сеансов и бронируйте билеты онлайн</p>
+    </section>
+
+    <div class="toolbar">
+      <h2>Афиша</h2>
+      <label>
+        Жанр:
+        <select id="genre">
+          <option value="all">Все жанры</option>
+        </select>
+      </label>
+    </div>
+
+    <!-- Сюда JavaScript выведет карточки фильмов -->
+    <div id="movies" class="movies">Загрузка...</div>
+  </main>
+
+  <footer class="footer">
+    <p>Кинотеатр «Полярная звезда», г. Северодвинск · 2026</p>
+    <p>Разработчик: Матвеев Михаил Андреевич</p>
+  </footer>
+
+  <script src="js/api.js"></script>
+  <script src="js/index.js"></script>
+</body>
+</html>
